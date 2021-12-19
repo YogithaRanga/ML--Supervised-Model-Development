@@ -1,6 +1,7 @@
 # ML-Supervised-Model-Development
 
-Built various predictive models on a continuous response variable (Y-variable) birthweight. This analysis involves feature engineering, model preparation, variable selection, and model development
+Built various predictive models on a continuous response variable (Y-variable) birthweight. This analysis involves feature engineering, model preparation, variable selection, and model development.
+
 Models used for analysis:
 - OLS Regression (standard linear regression)
 - Lasso Regression
